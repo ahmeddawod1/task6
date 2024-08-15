@@ -1,0 +1,60 @@
+.Prodcts {
+    float: left;
+    width: 20%;
+    border: 2px solid rgba(216, 214, 214, 0.811);
+    margin: 20px 5px 5px;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
+
+
+
+
+.Prodcts img {
+    width: 100%;
+    height: 50%;
+
+}
+
+.clearfix {
+    clear: both;
+}
+
+.ourProdcts {
+    margin: 0 auto;
+}
+
+#love {
+    width: 20%;
+    background-color: white;
+    border: 2px solid blue;
+    color: blue;
+    padding: 10px 20px;
+}
+
+#add {
+
+    width: 70%;
+    background-color: blue;
+    color: white;
+    border: 2px solid blue;
+    padding: 10px 20px;
+
+}
+
+.Prodctspan .price {
+    font-size: 18px;
+}
+
+.Prodctspan .oldprice {
+    color: red;
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+
+.Prodctspan .newprice {
+    color: green;
+
+}
